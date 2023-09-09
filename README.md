@@ -18,9 +18,9 @@ $damage = {
 }
 
 
-[String[]]$classes = "Demon-Hunter", "Magician", "Demon"
+[String[]]$classes = "Mercenary", "Guard Dog", "Bandit"
 $player = New-Object -TypeName PSCustomObject
-$player | Add-Member -MemberType NoteProperty -Name "Name" -Value "Dante"
+$player | Add-Member -MemberType NoteProperty -Name "Name" -Value "Cloud"
 $player | Add-Member -MemberType NoteProperty -Name "Health" -Value "25"
 $player | Add-Member -MemberType NoteProperty -Name "Attack_Level" -Value "5"
 $player | Add-Member -MemberType NoteProperty -Name "Class" -Value $classes[0]
