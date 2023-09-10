@@ -5,7 +5,7 @@
 </p>
 
 <h1>Overview</h1>
-
+This Powershell script displays a prompt that you commonly see in turn-based RPG games such as Final Fantasy and Pokemon. The script is made by using variables, custom objects and assigning properties and methods to these objects in Powershell.
 
 
 <details> 
