@@ -4,7 +4,7 @@
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/powershell_icon.png" height="15%" width="15%" />
 </p>
 
-<h3>Overview</h3>
+<h2>Overview</h2>
 This Powershell script displays a prompt that you commonly see in turn-based RPG games such as Final Fantasy and Pokemon. The script is made by using variables, custom objects and assigning properties and methods to these objects in Powershell.
 Download the script file or copy it from down below.
 
