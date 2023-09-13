@@ -8,8 +8,7 @@
 This Powershell script displays a prompt that you commonly see in turn-based RPG games such as Final Fantasy and Pokemon. The script is made by using variables, custom objects and assigning properties and methods to these objects in Powershell.
 Download the script file or copy it from down below.
 
-<details> 
-  <summary> <h4>Powershell script</h4> </summary>
+<summary> <h4>Powershell script</h4> </summary>
   
 ```powershell
 # Character Actions
@@ -64,4 +63,3 @@ $player.Attack($enemy_2)
 Write-Host End round!
 
 ``` 
-</details>
